@@ -1,0 +1,64 @@
+This is a portfolio website for myself.
+
+learning how to do this via YouTube.com -->  https://www.youtube.com/watch?v=78l05_nuDIg&t=742s
+
+using -> https://heroicons.com/ ,  https://fonts.google.com/ , 
+https://www.google.com/search?q=hex+color&oq=hex&aqs=chrome.0.69i59j69i57j0i20i263i433i512j46i199i433i465i512j0i20i263i433i457i512j0i433i512l2j0i512j0i433i512j0i512.2373j0j7&sourceid=chrome&ie=UTF-8
+https://ionic.io/ionicons
+
+**This is a responsive website**
+
+https://loremipsum.io/  
+  
+^- lorem ipsum comes from the latin 
+         dolorem ipsum which roughly translates:
+                                           "Pain itself".
+
+Mainly using html & css with a little javascript
+
+Once this is completed will probably try and implement react?
+
+remember this is a side, side project... but also a main focus among others
+like the linked in profile.. still need to do that. 
+also the GitHub IO page for Aznable-697....are we even sticking with that
+Username??? 
+   Possible username:
+                    mattwhiteker ?
+                    mswhiteker ?
+                    therealmattwhiteker ?
+                    
+
+
+
+Main focus is the Java class. Spring boot & hibernate.
+
+Also anyway to make some extra money or money period coding would be a plus...
+
+so focus on java class and probably learn about **micro services**...
+
+NEED A DAMN STUDIO NAME... -,- WSC? Whiteker software Co. ? Challenges Coding ?
+
+
+DEPLOY NOTES:
+
+netlify:
+www.netlify.com
+
+free deploy websites
+
+>site
+
+drag and drop site folder to netlify website 
+
+change site name > site settings > general > change site name
+^--Sites will always be <site-name>.netlify.app
+
+to change to a Custom Domain go to 
+>Domain management >Add custom domain >type in custom domain
+
+TODO
+Fine tune the index.html page with actual shit not just lorem ipsum
+Change pictures out for actual legit pictures
+
+
+
